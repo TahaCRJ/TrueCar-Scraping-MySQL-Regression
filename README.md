@@ -10,4 +10,4 @@ The data I gather is transferred to a database and stored in a table with the na
 Once the data is stored in the database, it can be read and preprocessed for use in training a regression model. I train a regression model on the preprocessed data.
 
 ### Overview
-For an overview of the project, please refer to the project's documentation.(project_overview.ipynb)
+For an overview of the project, please refer to the project's documentation.[Link ProjectOverview](https://github.com/TahaCRJ/TrueCar-Scraping-MySQL-Regression/blob/main/Project_overview.ipynb)
